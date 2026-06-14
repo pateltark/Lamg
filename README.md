@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis,mysql,azure,raspberrypi,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis,mysql,azure,gitlab, raspberrypi,github&theme=dark" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace_Hub-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" height="48"/>
